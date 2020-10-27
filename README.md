@@ -66,12 +66,12 @@ Creating virtual environment "curly" with Python 3.8.6 (/usr/local/bin/python3.8
 
 ```sh
 $ venv activate
-Activating virtual environment "larry" with Python 3.8.6
+Activating virtual environment "curly" with Python 3.8.6
 ```
 
 ```sh
 $ venv delete
-Deleting virtual environment "larry" from /Users/zeke/venv
+Deleting virtual environment "curly" from /Users/zeke/venv
 ```
 
 ### Specifying A Python Version
