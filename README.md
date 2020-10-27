@@ -109,10 +109,10 @@ moe
 
 Some commands have alternate syntax because why not.
 
-`venv delete` == `venv remove` == `venv rm`
-`venv list` == `venv ls`
-`venv activate` == `venv shell`
-`deactivate` == `venv deactivate` == `venv exit`
+- `venv delete` == `venv remove` == `venv rm`
+- `venv list` == `venv ls`
+- `venv activate` == `venv shell`
+- `deactivate` == `venv deactivate` == `venv exit`
 
 ## Configuration
 
