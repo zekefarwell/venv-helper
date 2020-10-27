@@ -18,7 +18,7 @@
 VENV_HOME="$HOME/venv"
 
 # Default Python 3 interpreter path or command
-DEFAULT_PYTHON="python3.8"
+DEFAULT_PYTHON="python3"
 
 venv() {
 
